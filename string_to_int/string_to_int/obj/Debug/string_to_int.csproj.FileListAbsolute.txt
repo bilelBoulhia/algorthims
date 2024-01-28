@@ -1,0 +1,7 @@
+C:\Users\Origin Systems\source\repos\string_to_int\string_to_int\bin\Debug\string_to_int.exe.config
+C:\Users\Origin Systems\source\repos\string_to_int\string_to_int\bin\Debug\string_to_int.exe
+C:\Users\Origin Systems\source\repos\string_to_int\string_to_int\bin\Debug\string_to_int.pdb
+C:\Users\Origin Systems\source\repos\string_to_int\string_to_int\obj\Debug\string_to_int.csproj.AssemblyReference.cache
+C:\Users\Origin Systems\source\repos\string_to_int\string_to_int\obj\Debug\string_to_int.csproj.CoreCompileInputs.cache
+C:\Users\Origin Systems\source\repos\string_to_int\string_to_int\obj\Debug\string_to_int.exe
+C:\Users\Origin Systems\source\repos\string_to_int\string_to_int\obj\Debug\string_to_int.pdb

@@ -1,0 +1,7 @@
+C:\Users\Origin Systems\source\repos\parentthese\parentthese\bin\Debug\parentthese.exe.config
+C:\Users\Origin Systems\source\repos\parentthese\parentthese\bin\Debug\parentthese.exe
+C:\Users\Origin Systems\source\repos\parentthese\parentthese\bin\Debug\parentthese.pdb
+C:\Users\Origin Systems\source\repos\parentthese\parentthese\obj\Debug\parentthese.csproj.AssemblyReference.cache
+C:\Users\Origin Systems\source\repos\parentthese\parentthese\obj\Debug\parentthese.csproj.CoreCompileInputs.cache
+C:\Users\Origin Systems\source\repos\parentthese\parentthese\obj\Debug\parentthese.exe
+C:\Users\Origin Systems\source\repos\parentthese\parentthese\obj\Debug\parentthese.pdb

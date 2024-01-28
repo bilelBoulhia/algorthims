@@ -1,0 +1,7 @@
+C:\Users\Origin Systems\source\repos\reverse integer\reverse integer\bin\Debug\reverse integer.exe.config
+C:\Users\Origin Systems\source\repos\reverse integer\reverse integer\bin\Debug\reverse integer.exe
+C:\Users\Origin Systems\source\repos\reverse integer\reverse integer\bin\Debug\reverse integer.pdb
+C:\Users\Origin Systems\source\repos\reverse integer\reverse integer\obj\Debug\reverse integer.csproj.AssemblyReference.cache
+C:\Users\Origin Systems\source\repos\reverse integer\reverse integer\obj\Debug\reverse integer.csproj.CoreCompileInputs.cache
+C:\Users\Origin Systems\source\repos\reverse integer\reverse integer\obj\Debug\reverse integer.exe
+C:\Users\Origin Systems\source\repos\reverse integer\reverse integer\obj\Debug\reverse integer.pdb

@@ -1,0 +1,7 @@
+C:\Users\Origin Systems\source\repos\pow\pow\bin\Debug\pow.exe.config
+C:\Users\Origin Systems\source\repos\pow\pow\bin\Debug\pow.exe
+C:\Users\Origin Systems\source\repos\pow\pow\bin\Debug\pow.pdb
+C:\Users\Origin Systems\source\repos\pow\pow\obj\Debug\pow.csproj.AssemblyReference.cache
+C:\Users\Origin Systems\source\repos\pow\pow\obj\Debug\pow.csproj.CoreCompileInputs.cache
+C:\Users\Origin Systems\source\repos\pow\pow\obj\Debug\pow.exe
+C:\Users\Origin Systems\source\repos\pow\pow\obj\Debug\pow.pdb
